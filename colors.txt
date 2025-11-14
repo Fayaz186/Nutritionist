@@ -1,0 +1,11 @@
+Grey15: #262626
+Green70: #cbea7b
+Green90: #eef8d3
+Green95: #f6fbe9
+grey20: #333333
+white: #ffffff
+Green97: #fafbf2
+Dark Green15: #1a3129
+Green85: #e5f5bd
+Grey30: #4c4c4c
+Dark Green25: #2c5446
